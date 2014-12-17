@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAC3DF66-3548-4565-BC52-E70B04D81176</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PostcardTut</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>938D09DFFCF2EB1DF707EAF19C039316DFDC0F2B</key>
+		<string>https://github.com/agotadubi/PostcardTut.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PostcardTut.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>938D09DFFCF2EB1DF707EAF19C039316DFDC0F2B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/agotadubi/PostcardTut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>938D09DFFCF2EB1DF707EAF19C039316DFDC0F2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>938D09DFFCF2EB1DF707EAF19C039316DFDC0F2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PostcardTut</string>
+		</dict>
+	</array>
+</dict>
+</plist>
